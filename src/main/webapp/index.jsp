@@ -8,13 +8,13 @@
         <title>Mallikarjuna-webapplication</title>
     </head>
     <body>
-        <img align="left" src="images/MyLogo.PNG" height="15%" width="15%"/><br><br><br><br><br><br><br>
-        <h1>Hello This is CICD PipeLine Project !</h1>
-        <h2>Hello GIT->GitHub->Jenkins->Tomcat !</h2>
-        <h3>Hello Created by  !</h3>
-        <h4>Hello Mallikarjuna !</h4>
-        This is testing java web application page <b>version 1.0</b><br><br>
-        <div>Enjoy! -- https://selfieblue.wordpress.com</div>
+        <img align="left" src="images/MyLogo.PNG" height="30%" width="45%"/><br><br><br><br><br><br><br>
+        <h1> Hello This is CICD PipeLine Project !</h1>
+        <h2> GitHub->Jenkins->Tomcat !</h2>
+        <h3> Created by  !</h3>
+        <h4> Mallikarjuna !</h4>
+        This is testing java web application page <b> Your Project was successfully deployed</b><br><br>
+        <div> Enjoy!!!!!</div>
     
     </body>
 </html>
