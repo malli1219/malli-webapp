@@ -8,7 +8,7 @@
         <title>Mallikarjuna-webapplication</title>
     </head>
     <body>
-       <img align="left" src="images/MyLogo.PNG" height="30%" width="45%"/></br><br /><br /><br />
+       <img align="left" src="images/MyLogo.PNG" height="20%" width="25%"/></br><br /><br /><br />
         <h1> Hello This is CICD PipeLine Project  </h1> 
         <h2> GitHub->Jenkins->Tomcat  </h2> <br />
        
