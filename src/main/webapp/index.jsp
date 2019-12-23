@@ -9,15 +9,17 @@
     </head>
     <body>
        <img align="left" src="images/MyLogo.PNG" height="20%" width="25%"/>
-       <br /><br /><br />
+       <br /><br /><br /> <br /> 
        
         <h1> Hello This is CICD PipeLine Project  </h1> 
-        <h2> GitHub->Jenkins->Tomcat  </h2> <br />
+        <h2> GITHUB --> JENKINS --> TOMCAT  </h2> <br />
        
         <h3> Created by  </h3>
         <h4> Mallikarjuna !</h4> <br />
+       
         This is testing java web application page <br />
-        Your Project was successfully deployed <br />
+        Your Project was successfully deployed <br /> <br />
+       
         <div> Enjoy!!!!! </div>
     
     </body>
