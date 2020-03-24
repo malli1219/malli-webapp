@@ -18,8 +18,8 @@
         <p><h3> Created by  </h3> 
         <h4> Mallikarjuna !</h4></p> 
         <br />
-        This is testing java web application page 
-        Your Project was successfully deployed <br /> <br />
+        This is testing java web application page <br />
+        Your Project was successfully deployed <br /><br />
        
         <div> Enjoy!!!!! </div>
     
