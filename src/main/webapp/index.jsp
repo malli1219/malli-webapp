@@ -8,11 +8,11 @@
         <title>Mallikarjuna-webapplication</title>
     </head>
     <body>
-       <img align="left" src="images/MyLogo.PNG" height="20%" width="25%"/>
+       <img align="left" src="images/MyLogo.PNG" height="30%" width="40%"/>
        <br /><br /><br /> <br /> 
        
         <h1> Hello This is CICD PipeLine Project  </h1> 
-        <h2> GITHUB --> JENKINS --> TOMCAT  </h2> <br />
+        <h2> GITHUB --> JENKINS --> ANSIBLE --> DOCKER --> TOMCAT  </h2> <br />
        
         <h3> Created by  </h3>
         <h4> Mallikarjuna !</h4> <br />
