@@ -8,17 +8,17 @@
         <title>Mallikarjuna-webapplication</title>
     </head>
     <body>
-       <img align="left" src="images/MyLogo.PNG" height="50%" width="70%"/>
+       <img align="left" src="images/MyLogo.PNG" height="50%" width="100%"/>
         
        
         <p><br /><br /><br /><br />
         <h1> Hello This is CICD PipeLine Project  </h1>
         <h2> GITHUB --> JENKINS --> ANSIBLE --> DOCKER --> TOMCAT  </h2> </p>
        
-        <p><br /><h3> Created by  </h3> 
-        <br /><h4> Mallikarjuna !</h4></p> 
-       
-        This is testing java web application page <br />
+        <p><h3> Created by  </h3> 
+        <h4> Mallikarjuna !</h4></p> 
+        <br />
+        This is testing java web application page 
         Your Project was successfully deployed <br /> <br />
        
         <div> Enjoy!!!!! </div>
